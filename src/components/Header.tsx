@@ -13,7 +13,7 @@ export default function Header() {
           {/* Logo */}
           <div className="flex items-center">
             <Image
-              src="/logo_gr.png"
+              src="confidence-howto/logo_gr.png"
               alt="MOTHER VEGETABLE"
               width={200}
               height={200}

@@ -10,7 +10,7 @@ export default function MazavegeFamily() {
     <section id="mazavege-family" className="py-24 relative overflow-hidden">
       <div id="s6" className="absolute inset-0 bg-gradient-to-b from-black via-gray-900 to-black"></div>
       <div className="relative z-10 flex justify-center mb-8">
-        <img src="/htu.png" alt="HTU" className="w-full max-w-60 md:max-w-96 h-auto" />
+        <img src="confidence-howto/htu.png" alt="HTU" className="w-full max-w-60 md:max-w-96 h-auto" />
       </div>
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-5xl mx-auto space-y-8">
@@ -26,7 +26,7 @@ export default function MazavegeFamily() {
                 {/* 画像 */}
                 <div className="w-full md:w-1/3 flex-shrink-0">
                   <img
-                    src="/u21.jpg"
+                    src="confidence-howto/u21.jpg"
                     alt="Shampoo treatment"
                     className="w-full h-auto"
                   />
@@ -56,7 +56,7 @@ export default function MazavegeFamily() {
                 {/* 画像 */}
                 <div className="w-full md:w-1/3 flex-shrink-0">
                   <img
-                    src="/u22.jpg"
+                    src="confidence-howto/u22.jpg"
                     alt="Hair Treatment treatment"
                     className="w-full h-auto"
                   />
@@ -86,7 +86,7 @@ export default function MazavegeFamily() {
                 {/* 画像 */}
                 <div className="w-full md:w-1/3 flex-shrink-0">
                   <img
-                    src="/u23.jpg"
+                    src="confidence-howto/u23.jpg"
                     alt="Hair Pack treatment"
                     className="w-full h-auto"
                   />
@@ -116,7 +116,7 @@ export default function MazavegeFamily() {
                 {/* 画像 */}
                 <div className="w-full md:w-1/3 flex-shrink-0">
                   <img
-                    src="/u24.jpg"
+                    src="confidence-howto/u24.jpg"
                     alt="Leave-in Hair Treatment treatment"
                     className="w-full h-auto"
                   />
@@ -138,7 +138,7 @@ export default function MazavegeFamily() {
           </ScrollAnimationWrapper>
           {/* ロゴ画像 */}
           <div className="flex justify-center mt-12">
-            <img src="/mazavege_logo_midori.png" alt="Mazavege Logo" className="h-16 w-auto" />
+            <img src="confidence-howto/mazavege_logo_midori.png" alt="Mazavege Logo" className="h-16 w-auto" />
           </div>
         </div>
       </div>

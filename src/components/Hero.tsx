@@ -11,7 +11,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0">
         <Image
-          src="/hero-earth-regeneration-Dnk2z_VF.png"
+          src="confidence-howto/hero-earth-regeneration-Dnk2z_VF.png"
           alt="Earth Regeneration"
           fill
           className="object-cover"
@@ -26,7 +26,7 @@ export default function Hero() {
         <div className="mb-12">
         <div className="mb-6 flex justify-center">
             <Image
-              src="/mazavege_logo_midori.png"
+              src="confidence-howto/mazavege_logo_midori.png"
               alt="mazavege Logo"
               width={200}
               height={200}
