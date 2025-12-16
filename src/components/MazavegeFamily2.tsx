@@ -10,7 +10,7 @@ export default function MazavegeFamily() {
     <section id="mazavege-family" className="py-24 relative overflow-hidden">
       <div id="s2" className="absolute inset-0 bg-gradient-to-b from-black via-gray-900 to-black"></div>
       <div className="relative z-10 flex justify-center mb-8">
-        <img src="confidence-howto/htu.png" alt="HTU" className="w-full max-w-60 md:max-w-96 h-auto" />
+        {/*<img src="confidence-howto/htu.png" alt="HTU" className="w-full max-w-60 md:max-w-96 h-auto" />*/}
       </div>
       <div className="container mx-auto px-4 relative z-10">
         <div className="max-w-5xl mx-auto space-y-8">
